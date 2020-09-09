@@ -1,11 +1,10 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+templateKey: blog-post
+title: “美丽城镇”是啥模样 浙江发布全国首个评价办法
+date: 2020-09-09T08:25:49.577Z
+description: 5月22日，记者从浙江省美丽城镇办获悉，《浙江省美丽城镇建设评价办法（试行）》（以下简称《评价办法》）日前发布，这也是全国首个美丽城镇建设评价办法。
 featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+featuredimage: /img/chemex.jpg
 tags:
   - jamaica
   - green beans
@@ -13,22 +12,13 @@ tags:
   - tasting
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+5月22日，记者从浙江省美丽城镇办获悉，《浙江省美丽城镇建设评价办法（试行）》（以下简称《评价办法》）日前发布，这也是全国首个美丽城镇建设评价办法。
 
-## A little history
+2019年9月，浙江在小城镇环境综合整治取得阶段性成效的基础上，作出了实施“百镇样板、千镇美丽”工程，高水平推进新时代美丽城镇建设的重大决策部署。锚定全省1010个小城镇，计划用3年时间打造300个省级样板，到2035年，高质量全面建成具有时代特征、现代品质、浙江特色的美丽城镇。
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+《评价办法》围绕功能便民环境美、共享乐民生活美、兴业富民产业美、魅力亲民人文美、善治为民治理美以及城乡融合体制机制，共设置55项共性指标、20项左右个性指标及满意度评价指标。其中共性指标对应美丽城镇建设的基本要求，为约束性指标；个性指标突出美丽城镇样板特色发展与增量评价，为引领性加分指标；满意度指标则是反映城镇居民对美丽城镇的满意程度。
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+《评价办法》探索建立以美丽城镇发展指数为代表的综合评估体检机制，创新提出了分类型、分特色的美丽城镇综合评价体系。
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+“下一步，我们将在《评价办法》的指导下，建立小城镇动态监督评价机制，每年定期发布美丽城镇发展指数。”省美丽城镇办相关负责人说。（记者 胡芸 通讯员 陈秋杰)
