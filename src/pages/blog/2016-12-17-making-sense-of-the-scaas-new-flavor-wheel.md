@@ -1,33 +1,23 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: 今年杭州市将打造29个美丽城镇
+date: 2020-09-09T08:23:28.741Z
+description: |-
+  
+
+  2020新年第一天，杭州美丽城镇建设奏响了新的冲锋号角。
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor
   - tasting
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
 
-## What the updates mean to you
+昨日（1月1日），《杭州市高质量建设美丽城镇实施方案》新闻发布会召开，记者从会上了解到，伴随着《杭州市高质量建设美丽城镇实施方案》正式实施，新的一年，杭州将以环境美、生活美、产业美、人文美和治理美“五美”打造为切入点，实施环境综合提升、功能服务提质、生活品质提高、产业统筹提效、基层治理提能等五大行动，在基础设施建设、环境整治、产业扶持、公共设施完善等方面对小城镇进行全方位的提升，全年将投入110多亿元、实施项目230余个，打造29个美丽城镇，力争20个以上小城镇创建成为市级美丽城镇，10个以上成为省级样板美丽城镇。
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+“2019年，全市在完成149个小城镇环境综合整治目标的基础上，以因地制宜、分类推进、试点先行、示范引领的原则启动了27个美丽城镇试点，形成了临浦镇、瓶窑镇等一大批高品质镇村生活圈体系，美丽城镇试点成效显著。”市建委相关负责人介绍，2019年试点乡镇共计新建、改造和提升商业综合体5座，星级农贸市场3座，文体中心7座，教育机构9所，医疗机构3家，养老机构2家，卫生服务站14个，公厕638个；新改建停车场58处，新增3998处车位；建成生态绿道255.1公里；试点乡镇共拥有幼儿园、小学、初中等各类学校160余所，医院、卫生院48所，养老机构40余家，商贸场所55家，文体场所43家……一大批美丽城镇建设项目释放了巨大的民生幸福感。
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+市美丽城镇建设办公室负责人表示，2020年是全面建成小康社会的决胜之年，是高水平推进美丽城镇建设的首战之年和关键一年，杭州将聚焦人民群众的生活需求，充分落实以“一条快速对外通道、一条生态绿道、一张雨污分流收集处理网、一张垃圾分类收集处置网、一个商贸场所、一个文体场所、一个学前和义务教育体系、一个基本医疗卫生和养老服务体系、一个基层治理体系、一个镇村生活圈体系”等“十个一”为标志的美丽城镇建设基本要求，力争在全省高水平推进美丽城镇建设中更好地发挥“头雁”作用，全面补齐杭州美丽城市、美丽乡村之间的城镇“短板”，以强化城乡统筹推进统筹之治，为杭州打造展示新时代中国特色社会主义重要窗口作出贡献。图片由市建委提供
