@@ -67,7 +67,7 @@ const Navbar = class extends React.Component {
                 服务
               </Link>
               <Link className="navbar-item" to="/blog">
-                咨询
+                资讯
               </Link>
               <Link className="navbar-item" to="/contact">
                 联系我们
