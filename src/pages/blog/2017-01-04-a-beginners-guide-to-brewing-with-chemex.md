@@ -1,29 +1,46 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: 夯实“美丽城镇”建设内涵 余杭“美丽+”亮点多
+date: 2020-09-09T08:23:55.106Z
+description: “这里是我土生土长的地方，感情深厚，希望通过入驻非遗馆可以让更多人知晓、关注余杭纸伞。未来我们会不断思考新形势下传统技艺的继承和创新，努力在传统和现代审美之间找到平衡，当好非遗技艺守护人，使非遗技艺更具生命力。”在瓶窑老街的非遗馆群揭牌仪式上，余杭纸伞制作技艺的传承人刘伟学难掩内心的喜悦。
 featuredpost: false
 featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
 tags:
   - brewing
   - chemex
 ---
 ![chemex](/img/chemex.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
 
-## The little secrets of Chemex brewing
+“这里是我土生土长的地方，感情深厚，希望通过入驻非遗馆可以让更多人知晓、关注余杭纸伞。未来我们会不断思考新形势下传统技艺的继承和创新，努力在传统和现代审美之间找到平衡，当好非遗技艺守护人，使非遗技艺更具生命力。”在瓶窑老街的非遗馆群揭牌仪式上，余杭纸伞制作技艺的传承人刘伟学难掩内心的喜悦。
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+作为首批“美丽城镇”创建镇街，瓶窑镇放大良渚古城遗址成功申遗后续效应，做强文化旅游内涵，创新发展文化旅游产业，走出了一条独具特色的“美丽+文化”之路，按照这一模式，将日益发挥出良性循环效能。
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+去年以来，在“美丽城镇”创建道路上，余杭围绕高水平推进全域美丽大花园建设，突出一镇一特色、一镇一规划，深挖潜力和内涵，做足“美丽+”文章，全面绘就高质量“美丽城镇”建设“五美”图景。
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+## “美丽+项目” 创新创业筑高地
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+今年以来，余杭区以项目落地为支点，全面梳理“美丽城镇”建设项目近350个，围绕首批瓶窑、仓前、良渚、塘栖、运河、径山6个镇街创建，落实政策、资金、技术等要素保障，加快重点项目推进。
+
+仓前街道是无数创新创业者的梦想地。浙大校友企业总部经济园落地仓前，将形成以企业总部集群为特征的新型经济业态，打造以高新技术为核心的研发、孵化、产业化高地。街道在产业融合、人才集聚、设施配套等方面引领全省“美丽城镇”发展，为未来科技城打造具有国际影响力的“双创”高地，加快实现“城西腾飞”。
+
+居民生活少不了烟火气。塘栖镇通过项目建设，补齐功能短板，范家斗农贸市场将打造成满足居住区邻里生活服务的“生鲜市集”“生活市集”。农贸市场地上三层、地下一层，地上建筑面积9650.36平方米、地下建筑面积4870平方米，内部营造时尚轻商业氛围、外部极具江南水乡韵味的现代建筑语言，进一步完善周边设施配套，提升居民生活的获得感。
+
+截至5月底，2020年参与“美丽城镇”首批样板创建的瓶窑、仓前、良渚、塘栖、运河、径山6个镇街已开工项目140个，开工率达93.96%；完成投资额48.35亿元，累计完成投资进度52.70%。
+
+## “美丽+产业” 兴业富民增动能
+
+在“美丽城镇”创建中，余杭区以产业提效为核心，引导镇街突出特色、发挥优势，推动镇域一二三产业全面发展，在兴业富民的同时，反哺“美丽城镇”建设。
+
+在运河街道五杭集镇沿大运河一带，一个以“党建+”融合运河文化的主题公园精彩亮相，这里不仅成为新的党群服务中心，还是街道党建“红色地图”的西起点。沿着“红色地图”，可以到博陆村听听“新三不”精神化民讲堂，到螺蛳桥村探访红色基因展馆，到杭信村走走春蚕长廊……目前，街道打造好的党建示范点已有10余个。同时，运河街道以大运河为背景，打破城乡壁垒，结合治水促转型荷塘月色项目和全国“一村一品”（生态鳖）示范村，充分发挥双桥村等5村的资源优势，打造“运河文脉延续、文化新生之田园门户”，带动乡村全面振兴。
+
+塘栖镇的“美丽城镇”建设将原先的乡村零碎节点串珠成链，打造出一个完整的文旅体系，既振兴了乡村产业，又促进了城镇产业发展。全长约20公里的塘超小径串起塘栖村、丁河村等5个景区村庄，沿线水清岸绿，不仅成为沿线居民日常休闲散步的健身道，更吸引不少徒步、骑行爱好者前来体验，感受地道的江南水乡田园风光。
+
+## “美丽+文化” 延续文脉忆乡愁
+
+坐拥良渚文化、运河文化两大世界级文化的良渚街道，依托良渚博物院、良渚文化艺术中心、晓书馆等资源，加速布点一批文化艺术中心、文化体育公园、图书馆、博物院、青少年宫等文化地标。街道坚持合理开发利用原则，充分挖掘良渚历史遗存，保持历史文化遗产的真实性和完整性；科学修缮历史老街区、老建筑，确保在不破坏建筑格局及建筑价值的前提下，拓展其他使用功能，打造良渚历史人文特色，绘就一幅融合五千多年文明古城与产业兴旺新城的现代版“富春山居图”。
+
+余杭区以文化生态为主线，把准镇街历史文化脉络，打造“高颜值、有品位、忆乡愁”的美丽小镇。同时，大力推行“美丽城镇”创建“1+16+X”的首席设计师、驻镇规划师、“美丽城镇”发展师“三师融合”制度，形成一区一首席设计师、一镇一规划师加“美丽城镇”发展师专家服务智囊团格局，建立起覆盖区、镇街两个层级的专家服务机制，为“美丽城镇”塑魂。如：径山镇聘请了径山文化研究会秘书长陈宏为“美丽城镇”发展师，通过对禅茶文化的挖掘梳理，将其融入“美丽城镇”建设，使项目建设与径山文化高度融合，成为有机生命体。
+
+（原标题《余杭多举措夯实“美丽城镇”建设内涵》，作者 李雪红，编辑 李如）
