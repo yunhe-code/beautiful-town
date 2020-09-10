@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: 美丽城镇建设服务平台
+title: 农业镇创建服务平台
 image: /img/home-jumbotron.jpg
-heading: 美丽城镇建设服务平台
-subheading: 农业镇服务平台
+heading: 农业镇创建服务平台
+subheading: 美丽城镇建设
 mainpitch:
   title: 我们是谁
   description: >-
