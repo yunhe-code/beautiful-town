@@ -26,13 +26,4 @@ testimonials:
   - quote: "12222"
     author: "333"
 full_image: /img/products-full-width.jpg
-pricing:
-  heading: "1"
-  description: "2"
-  plans:
-    - plan: t
-      price: "5"
-      description: "5"
-      items:
-        - "6"
 ---
