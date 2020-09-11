@@ -15,7 +15,6 @@ export const ProductPageTemplate = ({
   main,
   testimonials,
   fullImage,
-  pricing,
 }) => (
   <div className="content">
     <div
@@ -90,11 +89,6 @@ export const ProductPageTemplate = ({
                   })`,
                 }}
               />
-              <h2 className="has-text-weight-semibold is-size-2">
-                {pricing.heading}
-              </h2>
-              <p className="is-size-5">{pricing.description}</p>
-              <Pricing data={pricing.plans} />
             </div>
           </div>
         </div>
@@ -120,11 +114,6 @@ ProductPageTemplate.propTypes = {
   }),
   testimonials: PropTypes.array,
   fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  pricing: PropTypes.shape({
-    heading: PropTypes.string,
-    description: PropTypes.string,
-    plans: PropTypes.array,
-  }),
 }
 
 const ProductPage = ({ data }) => {
@@ -141,7 +130,6 @@ const ProductPage = ({ data }) => {
         main={frontmatter.main}
         testimonials={frontmatter.testimonials}
         fullImage={frontmatter.full_image}
-        pricing={frontmatter.pricing}
       />
     </Layout>
   )
@@ -228,16 +216,6 @@ export const productPageQuery = graphql`
             fluid(maxWidth: 2048, quality: 100) {
               ...GatsbyImageSharpFluid
             }
-          }
-        }
-        pricing {
-          heading
-          description
-          plans {
-            description
-            items
-            plan
-            price
           }
         }
       }
