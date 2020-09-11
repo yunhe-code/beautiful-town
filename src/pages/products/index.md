@@ -16,8 +16,6 @@ intro:
     - image: /img/tutorials.png
       text: |
         占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符
-    - image: /img/meeting-space.png
-      text: 占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符
   heading: What we offer
   description: |
     占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符
