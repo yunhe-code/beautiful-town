@@ -22,6 +22,9 @@ main:
   image3:
     alt: 位符占位
     image: /img/products-grid1.jpg
+  image3:
+    alt: 位符占位
+    image: /img/products-grid1.jpg
 testimonials:
   - quote: "12222"
     author: "333"
