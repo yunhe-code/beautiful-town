@@ -2,7 +2,7 @@
 templateKey: index-page
 title: 服务内容
 image: /img/home-jumbotron.jpg
-heading: "  "
+heading: "     "
 subheading: 美丽城镇建设
 mainpitch:
   title: "   "
