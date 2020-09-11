@@ -15,10 +15,10 @@ main:
   description: 占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符
   image1:
     alt: 位符占位占位符占位占位符占位占位符
-    image: /img/coffee-gear.png
+    image: /img/products-grid1.jpg
   image2:
     alt: 位符占位占位符占位占位符占位占位符
-    image: /img/coffee.png
+    image: /img/products-grid1.jpg
   image3:
     alt: 位符占位
     image: /img/products-grid1.jpg
