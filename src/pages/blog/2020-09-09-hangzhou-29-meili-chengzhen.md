@@ -7,14 +7,11 @@ description: |-
 
   2020新年第一天，杭州美丽城镇建设奏响了新的冲锋号角。
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/unnamed.jpg
 tags:
-  - flavor
-  - tasting
+  - 美丽城镇
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
-
-
+![flavor wheel](/img/unnamed.jpg)
 
 昨日（1月1日），《杭州市高质量建设美丽城镇实施方案》新闻发布会召开，记者从会上了解到，伴随着《杭州市高质量建设美丽城镇实施方案》正式实施，新的一年，杭州将以环境美、生活美、产业美、人文美和治理美“五美”打造为切入点，实施环境综合提升、功能服务提质、生活品质提高、产业统筹提效、基层治理提能等五大行动，在基础设施建设、环境整治、产业扶持、公共设施完善等方面对小城镇进行全方位的提升，全年将投入110多亿元、实施项目230余个，打造29个美丽城镇，力争20个以上小城镇创建成为市级美丽城镇，10个以上成为省级样板美丽城镇。
 
