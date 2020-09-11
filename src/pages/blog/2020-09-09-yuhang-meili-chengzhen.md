@@ -6,8 +6,7 @@ description: “这里是我土生土长的地方，感情深厚，希望通过�
 featuredpost: false
 featuredimage: /img/30a469f5fcbb44c1a6b8c5ab77076d04.jpg
 tags:
-  - brewing
-  - chemex
+  - 美丽城镇
 ---
 ![chemex](/img/30a469f5fcbb44c1a6b8c5ab77076d04.jpg)
 
