@@ -34,8 +34,4 @@ main:
   image7:
     alt: 位符占位
     image: /img/products-grid1.jpg
-testimonials:
-  - quote: "12222"
-    author: "333"
-full_image: /img/products-full-width.jpg
 ---
