@@ -1,18 +1,18 @@
 ---
-heading: 位符占位占位符占位占位符占位占
+heading: 为客户提供以下服务
 path: /products
 templateKey: product-page
 title: 位符占位
 image: /img/jumbotron.jpg
-description: 占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符
+description: 描述1
 intro:
   blurbs: []
   heading: What we offer
   description: |
-    占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符
+    描述2
 main:
-  heading: 位符占位占位符占位占位符占位
-  description: 占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符
+  heading: 描述4
+  description: 描述5
   image1:
     alt: 位符占位占位符占位占位符占位占位符
     image: /img/1农业科技.jpg
