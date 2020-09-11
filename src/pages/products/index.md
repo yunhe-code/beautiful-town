@@ -22,10 +22,17 @@ main:
   image3:
     alt: 位符占位
     image: /img/products-grid1.jpg
-testimonials: []
+testimonials:
+  - quote: "12222"
+    author: "333"
 full_image: /img/products-full-width.jpg
 pricing:
   heading: "1"
   description: "2"
-  plans: []
+  plans:
+    - plan: t
+      price: "5"
+      description: "5"
+      items:
+        - "6"
 ---
