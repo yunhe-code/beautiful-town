@@ -12,14 +12,14 @@ description: 为深入贯彻《中共浙江省委办公厅浙江省人民政府�
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: 农业科技
+      text: 农业科技-以数字农业技术提升现代农业生产管理水平
     - image: /img/coffee-gear.png
-      text: 品牌策划
+      text: 品牌策划-全方面农创品牌管理咨询
     - image: /img/tutorials.png
       text: |
-        培训服务
+        培训服务-为政企提供培育、输送农业产业人才服务
     - image: /img/meeting-space.png
-      text: 创新创业
+      text: 农创服务-优质创新创业项目引进
   heading: "标题1 "
   description: |
     占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符占位占位符
