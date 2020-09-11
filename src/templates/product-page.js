@@ -81,6 +81,21 @@ export const ProductPageTemplate = ({
                       <PreviewCompatibleImage imageInfo={main.image4} />
                     </article>
                   </div>
+				  <div className="tile is-parent">
+                    <article className="tile is-child">
+                      <PreviewCompatibleImage imageInfo={main.image5} />
+                    </article>
+                  </div>
+				  <div className="tile is-parent">
+                    <article className="tile is-child">
+                      <PreviewCompatibleImage imageInfo={main.image6} />
+                    </article>
+                  </div>
+				  <div className="tile is-parent">
+                    <article className="tile is-child">
+                      <PreviewCompatibleImage imageInfo={main.image7} />
+                    </article>
+                  </div>
                 </div>
               </div>
               <Testimonials testimonials={testimonials} />
@@ -117,6 +132,9 @@ ProductPageTemplate.propTypes = {
     image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 	image4: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+	image5: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+	image6: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+	image7: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
   testimonials: PropTypes.array,
   fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -186,7 +204,7 @@ export const productPageQuery = graphql`
             alt
             image {
               childImageSharp {
-                fluid(maxWidth: 526, quality: 92) {
+                fluid(maxWidth: 1075, quality: 92) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -196,7 +214,7 @@ export const productPageQuery = graphql`
             alt
             image {
               childImageSharp {
-                fluid(maxWidth: 526, quality: 92) {
+                fluid(maxWidth: 1075, quality: 92) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -213,6 +231,36 @@ export const productPageQuery = graphql`
             }
           }
 		  image4 {
+            alt
+            image {
+              childImageSharp {
+                fluid(maxWidth: 1075, quality: 72) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+		   image5 {
+            alt
+            image {
+              childImageSharp {
+                fluid(maxWidth: 1075, quality: 72) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+		   image6 {
+            alt
+            image {
+              childImageSharp {
+                fluid(maxWidth: 1075, quality: 72) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+		   image7 {
             alt
             image {
               childImageSharp {
