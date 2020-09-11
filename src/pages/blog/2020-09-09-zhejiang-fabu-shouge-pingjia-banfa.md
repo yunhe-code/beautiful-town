@@ -3,13 +3,10 @@ templateKey: blog-post
 title: “美丽城镇”是啥模样 浙江发布全国首个评价办法
 date: 2020-09-09T08:25:49.577Z
 description: 5月22日，记者从浙江省美丽城镇办获悉，《浙江省美丽城镇建设评价办法（试行）》（以下简称《评价办法》）日前发布，这也是全国首个美丽城镇建设评价办法。
-featuredpost: true
-featuredimage: /img/chemex.jpg
+featuredpost: false
+featuredimage: /img/8d8accd82fc4d78b6d464f8ab94dc8b0.jpg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - 美丽城镇
 ---
 
 
