@@ -76,6 +76,11 @@ export const ProductPageTemplate = ({
                       <PreviewCompatibleImage imageInfo={main.image3} />
                     </article>
                   </div>
+				   <div className="tile is-parent">
+                    <article className="tile is-child">
+                      <PreviewCompatibleImage imageInfo={main.image4} />
+                    </article>
+                  </div>
                 </div>
               </div>
               <Testimonials testimonials={testimonials} />
@@ -111,6 +116,7 @@ ProductPageTemplate.propTypes = {
     image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+	image4: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
   testimonials: PropTypes.array,
   fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -197,6 +203,16 @@ export const productPageQuery = graphql`
             }
           }
           image3 {
+            alt
+            image {
+              childImageSharp {
+                fluid(maxWidth: 1075, quality: 72) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+		  image4 {
             alt
             image {
               childImageSharp {
